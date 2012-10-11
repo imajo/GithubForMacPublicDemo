@@ -5,5 +5,8 @@
 
 他のメモ
 =
-githubからcloneしてきてブランチをつくった
+githubからローカルにcloneしてきてブランチをつくった。
+ローカルで文章を変更してGitHub For Macでcommit & Syncしたらgithubのリポジトリにブランチできてた。
+Commit & Syncってpushしてるのかな。
 
+コマンドでpushしてみよう
